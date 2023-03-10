@@ -1,0 +1,13 @@
+.splash {
+  height: 300px;
+  width: 100%;
+  background: red;
+  display: block;
+}
+
+.splashInner {
+  min-height: 100px;
+  height: auto;
+  width: 80%;
+  background: green;
+}
